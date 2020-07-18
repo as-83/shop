@@ -1,0 +1,5 @@
+com\abdsul\domain\Order.class
+com\abdsul\domain\ThingInOrder.class
+com\abdsul\domain\Thing.class
+com\abdsul\ejb\ThingsManagerBean.class
+com\abdsul\ejb\OrdersManagerBean.class
